@@ -1,4 +1,4 @@
-# carrd-skills
+# carrdsite-kit
 
 A collection of Claude skills for building custom components on [Carrd](https://carrd.co) sites — no coding experience needed.
 
@@ -20,19 +20,19 @@ Tell Claude what you want. Get code to paste directly into Carrd's Embed element
 In a new Claude chat, run:
 
 ```
-/skill-creator make all these skills for me https://github.com/iruhdam1/carrd-skills/tree/main/core-skills
+/skill-creator make all these skills for me https://github.com/iruhdam1/carrdsite-kit/tree/main/core-skills
 ```
 
 ### Step 2 — Install Function Skills (optional)
 
 ```
-/skill-creator make all these skills for me https://github.com/iruhdam1/carrd-skills/tree/main/function-skills
+/skill-creator make all these skills for me https://github.com/iruhdam1/carrdsite-kit/tree/main/function-skills
 ```
 
 ### Step 3 — Install Style Skills (optional)
 
 ```
-/skill-creator make all these skills for me https://github.com/iruhdam1/carrd-skills/tree/main/style-skills
+/skill-creator make all these skills for me https://github.com/iruhdam1/carrdsite-kit/tree/main/style-skills
 ```
 
 ---
