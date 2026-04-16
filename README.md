@@ -1,6 +1,6 @@
 # carrdsite-kit
 
-A collection of Claude skills for building custom components on [Carrd](https://carrd.co) sites — no coding experience needed.
+A collection of Claude skills for building custom components on [Carrd](https://try.carrd.co/xperian) sites — no coding experience needed.
 
 Tell Claude what you want. Get code to paste directly into Carrd's Embed element.
 
@@ -8,7 +8,7 @@ Tell Claude what you want. Get code to paste directly into Carrd's Embed element
 
 ## Requirements
 
-- **Carrd Pro Standard** or higher (for Embed elements)
+- **[Carrd Pro Standard](https://try.carrd.co/xperian)** or higher (for Embed elements)
 - A [Claude](https://claude.ai) account
 
 ---
